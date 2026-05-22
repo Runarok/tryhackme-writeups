@@ -29,3 +29,9 @@ Here’s where I left off:
 -->
 
 ---
+
+> Built while exploring an idea. Archived once I moved on to other things, but kept here as part of the learning process and experimentation trail.
+
+> Search `user:runarok topic:concept-repo` to find all concept repositories I’ve made.
+
+---
